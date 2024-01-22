@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 Hi, My name is Tran Thien
+- 📍 I'm living in Hochiminh City, Vietnam
+- 👀 I’m interested in coding💻, playing Game 🎮, watching anime 🇯🇵, stock investment 📈, and football ️⚽
+- 🌱 I’m currently learning Java, HTML, CSS, Javascript and so on
+- 🔎 I'm looking for a internship
+
 <!--
 **thientr18/thientr18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
