@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/thientr18?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/thientr18?style=social"> &nbsp;&nbsp;/>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/thientr18?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/thientr18?style=social"> &nbsp;&nbsp;
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Thien+Tran+%3C3;Welcome+to+my+profile!" alt="Title"></img>
