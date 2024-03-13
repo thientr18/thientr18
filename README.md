@@ -33,7 +33,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:tien.huynhlt.tn@gmail.com" >
+  <a href="mailto:tranthien1882003@gmail.com" >
     <img align="center" alt="thientr18 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
@@ -41,24 +41,20 @@
     <img align="center" alt="thientr18 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.facebook.com/tienhuynh.tn/" target="_blank">
+  <a href="https://www.facebook.com/thien18803/" target="_blank">
       <img align="center" alt="thientr18 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/_._tn_._tn_._/" target="_blank">
+  <a href="https://www.instagram.com/_thieenj/" target="_blank">
     <img align="center" alt="thientr18 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/thientr18" target="_blank">
     <img align="center" alt="thientr18 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
-  
-  <a href="https://www.youtube.com/channel/UC0xovL51iHgLKwLptcgNpYQ" target="_blank">
-    <img align="center" alt="thientr18 | Youtube" width="32px" src="https://icon-library.com/images/youtube-video-icon-png/youtube-video-icon-png-29.jpg" />
-  </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Tien Huynh thientr18
+  &copy; 2023 Thien Tran thientr18
 </div>
