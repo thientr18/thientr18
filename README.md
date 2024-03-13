@@ -23,7 +23,7 @@
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thientr18&layout=compact&show_icon=true&theme=algolia" alt="thientr18-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=thientr18-tn&layout=compact&show_icon=true&theme=algolia" alt="thientr18-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=thientr18&layout=compact&show_icon=true&theme=algolia" alt="thientr18-stats"/>
 </div>
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=thientr18&theme=algolia&background=0d1117&hide_border=true" />
