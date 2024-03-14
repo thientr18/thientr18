@@ -55,5 +55,5 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Thien Tran thientr18
+  &copy; 2024 Thien Tran thientr18
 </div>
