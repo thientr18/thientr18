@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Thien+Tran+%3C3;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me!!!
 
 - :credit_card: My full name is **Trần Thiện**  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNicm8zMTFmcDg5b2JtdTQ5NHU3djVnbWRkN3ZnMW92a204bHpwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="300" align="right"/>
 - :school: I'm currently a Undergradute from **International University - Vietnam National University HCM City**
