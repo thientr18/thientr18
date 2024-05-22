@@ -11,7 +11,7 @@
 - :books: My major is **Information Technology**
 - :earth_asia: I'm living in **Hochiminh City, Viet Nam**
 - :sweat_smile: I'm a newbie in coding :penguin:
-- :monocle_face: I'm interested in coding, music, football, and social knowleadge
+- :monocle_face: I'm interested in football and Japanese culture
 - :sunglasses: My favorite quote is ***"You'll Never Walk Alone"*** 
 - :ok_hand: Fun fact: *I'm a big fan of* **Liverpool FC**
 
