@@ -10,9 +10,8 @@
 - :school: I'm currently a Undergradute at **International University (VNU-HCMC)**
 - :books: I'm majoring in **Information Technology**
 - :earth_asia: I'm living in **Hochiminh City, Viet Nam**
-- :sweat_smile: I'm a newbie in coding :penguin:
-- :monocle_face: I'm interested in football and Japanese culture
-- :sunglasses: My favorite quote is ***"You'll Never Walk Alone"*** 
+- :💻: I'm learning backend site with **Spring Boot,Node.js & Express.js**
+- :monocle_face: I'm interested in football and Japanese cultures
 - :ok_hand: Fun fact: *I'm a big fan of* **Liverpool FC**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="55px" height="55px"> Some Languages and Tools
