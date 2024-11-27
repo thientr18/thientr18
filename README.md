@@ -10,7 +10,7 @@
 - :school: I'm currently a Undergradute at **International University (VNU-HCMC)**
 - :books: I'm majoring in **Information Technology**
 - :earth_asia: I'm living in **Hochiminh City, Viet Nam**
-- :💻: I'm learning backend site with **Spring Boot,Node.js & Express.js**
+- 💻: I'm learning backend site with **Spring Boot,Node.js & Express.js**
 - :monocle_face: I'm interested in football and Japanese cultures
 - :ok_hand: Fun fact: *I'm a big fan of* **Liverpool FC**
 
