@@ -7,9 +7,8 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me!
 
 - :credit_card: My full name is **Trần Thiện**  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNicm8zMTFmcDg5b2JtdTQ5NHU3djVnbWRkN3ZnMW92a204bHpwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250" align="right"/>
-- :school: I'm currently a Undergradute at **International University (VNU-HCMC)**
-- :books: I'm majoring in **Information Technology**
 - :earth_asia: I'm living in **Hochiminh City, Viet Nam**
+- :school: I'm currently a Undergradute at **International University (VNU-HCMC)**
 - 💻: I'm learning backend site with **Spring Boot & Node.js**
 - :monocle_face: I'm interested in badminton, football and Japanese cultures
 
