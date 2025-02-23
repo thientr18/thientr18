@@ -10,7 +10,7 @@
 - :school: I'm currently a Undergradute at **International University (VNU-HCMC)**
 - :books: I'm majoring in **Information Technology**
 - :earth_asia: I'm living in **Hochiminh City, Viet Nam**
-- 💻: I'm learning backend site with **Spring Boot, Node.js & Express.js**
+- 💻: I'm learning backend site with **Spring Boot & Node.js**
 - :monocle_face: I'm interested in badminton, football and Japanese cultures
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="55px" height="55px"> Some Languages and Tools
