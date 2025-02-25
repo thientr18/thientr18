@@ -27,7 +27,7 @@
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
-  <a href="mailto:tranthien1882003@gmail.com" >
+  <a href="mailto:thientran03.it@gmail.com" >
     <img align="center" alt="thientr18 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
