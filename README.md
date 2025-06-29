@@ -9,7 +9,7 @@
 - :credit_card: My full name is **Trần Thiện**  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNicm8zMTFmcDg5b2JtdTQ5NHU3djVnbWRkN3ZnMW92a204bHpwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="250" align="right"/>
 - :earth_asia: I'm living in **Hochiminh City, Viet Nam**
 - :school: I'm currently a Undergradute at **International University (VNU-HCMC)**
-- 💻: I'm learning backend site with **Spring Boot & Node.js**
+- 💻: I'm learning backend site with **Node.js**
 - :monocle_face: I'm interested in badminton, football and Japanese cultures
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="55px" height="55px"> Some Languages and Tools
